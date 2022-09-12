@@ -4,7 +4,7 @@ Hi 👋 My name is Basem Elshafei
 Data Scientist and PhD Student
 ------------------------------
 
-*   🌍  I'm based in London, United Kingdom
+*   🌍  I'm based in Nottingham, United Kingdom
 *   ✉️  You can contact me at [basemelshafei@gmail.com](mailto:basemelshafei@gmail.com)
 *   🧠  I'm learning Statistics and mathematics concepts: Probability, inferential statistics, and exploratory data analysis. Machine learning, deep learning, and ensemble learning concepts and algorithms.### Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
