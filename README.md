@@ -1,7 +1,7 @@
 Hi 👋 My name is Basem Elshafei
 ===============================
 
-Data Scientist and PhD Student
+Data Scientist and Research Fellow
 ------------------------------
 
 * 🌍  I'm based in Nottingham, United Kingdom
