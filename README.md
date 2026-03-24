@@ -108,7 +108,7 @@ I build data pipelines, automate workflows, and work across the full stack — f
 ### GitHub Stats
 
 <a href="http://www.github.com/basemelshafei">
-  <img src="https://github-readme-stats.vercel.app/api?username=basemelshafei&show_icons=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basemelshafei&show_icons=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="http://www.github.com/basemelshafei">
   <img src="https://streak-stats.demolab.com/?user=basemelshafei&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
