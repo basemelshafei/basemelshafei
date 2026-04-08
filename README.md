@@ -82,10 +82,10 @@ I build data pipelines, automate workflows, and work across the full stack — f
 ### What I Work On
 
 - **Data Pipelines & ETL** — collecting, transforming, and publishing data from industrial systems and APIs
-- **Machine Learning** — time series analysis, deep learning, and predictive modeling
+- **Machine Learning** — time series analysis, deep learning, and predictive modelling
 - **Automation** — self-hosted n8n workflows for monitoring, alerting, and integration
 - **Cloud & Serverless** — AWS Lambda, Amplify, and infrastructure-as-code
-- **Databases** — PostgreSQL, MongoDB, SQL Server — querying, modeling, and optimization
+- **Databases** — PostgreSQL, MongoDB, SQL Server — querying, modelling, and optimisation
 
 ---
 
