@@ -2,7 +2,7 @@
 
 **Data Engineer & Research Fellow** based in Nottingham, UK.
 
-I build data pipelines, automate workflows, and work across the full stack — from writing Python scripts that talk to industrial robots, to deploying cloud-native apps on AWS. Currently deepening my expertise in statistics, machine learning, and MLOps.
+I build data pipelines, automate workflows, and work across the full stack — from writing Python scripts that interface with industrial robots to deploying cloud-native apps on AWS. Currently deepening my expertise in statistics, machine learning, and MLOps.
 
 ---
 
@@ -81,11 +81,11 @@ I build data pipelines, automate workflows, and work across the full stack — f
 
 ### What I Work On
 
-- **Data Pipelines & ETL** — collecting, transforming, and publishing data from industrial systems and APIs
+- **Data Pipelines & ETL** — collecting, transforming, and publishing data from industrial systems and APIs with Kafka and Spark
 - **Machine Learning** — time series analysis, deep learning, and predictive modelling
-- **Automation** — self-hosted n8n workflows for monitoring, alerting, and integration
-- **Cloud & Serverless** — AWS Lambda, Amplify, and infrastructure-as-code
-- **Databases** — PostgreSQL, MongoDB, SQL Server — querying, modelling, and optimisation
+- **Automation** — self-hosted n8n and Airflow workflows for monitoring, alerting, and integration
+- **Cloud & Serverless** — AWS Lambda, EC2, and Terraform - infrastructure as code
+- **Databases** — PostgreSQL, RDB, SQL Server — querying, modelling, and optimisation
 
 ---
 
